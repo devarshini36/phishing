@@ -45,7 +45,7 @@ Final_Project/
 
 
 ```bash
-git clone https://github.com/your-username/phishalert.git
+git clone https://github.com/devarshini36/phishalert.git
 cd phishalert
 python -m venv venv
 venv\Scripts\activate   # On Windows
